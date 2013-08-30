@@ -20,10 +20,10 @@ JDBC http://dev.mysql.com/downloads/connector/j/
 	
 
 如何使用：
-	1. 配置关键词
+  1. 配置关键词
     关键词保存在keywords.conf文件中，是正则表达式
-	   
-	2. 配置邮件客户端
+     
+  2. 配置邮件客户端
     邮箱地址，用户名，密码的配置需要修改MailPostman.java中带星号“******”的部分
     
   3. 配置收邮件人
